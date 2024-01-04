@@ -26,7 +26,7 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 
 ##### 【2023】
 
-> **1、[2023-12-14]【ICCV2023**OccNeRF：Rendering Humans from Object-Occluded Monocular Videos[[paper]](https://arxiv.org/abs/2312.09243)[[code]](https://github.com/LinShan-Bin/OccNeRF)
+> **1、[2023-12-14][ICCV2023]**OccNeRF：Rendering Humans from Object-Occluded Monocular Videos[[paper]](https://arxiv.org/abs/2312.09243)[[code]](https://github.com/LinShan-Bin/OccNeRF)
 >
 > **2、[2023-12-09]** OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries[[paper]](https://arxiv.org/abs/2312.03774)
 >
@@ -56,7 +56,7 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 >
 > **15、[2023-06-16]** PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation[[paper]](https://arxiv.org/abs/2306.10013)[[code]](https://github.com/Robertwyq/PanoOcc)
 >
-> **16、[2023-06-15]UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering** [[paper]](https://arxiv.org/abs/2306.09117)
+> **16、[2023-06-15]** UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering [[paper]](https://arxiv.org/abs/2306.09117)
 >
 > **17、[2023-05-25]** OccupancyM3D: Learning Occupancy for Monocular 3D Object Detection[[paper]](https://arxiv.org/abs/2305.15694)[[code]](https://github.com/SPengLiang/OccupancyM3D)
 > 
