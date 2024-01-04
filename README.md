@@ -1,16 +1,16 @@
 ### occupancy
 
-## 起源
+## origin
 
-#### 1  最开始的文章
+#### 1  first article
 
 Occupancy Networks: Learning 3D Reconstruction in Function Space
 
-Occupancy Networks 系列的**开山之作**，在这篇论文中，作者提出了占据网络 Occupancy Network，一种新的基于学习的三维重建方法。目前引用【2275】
+The first work in the Occupancy Networks series, in this paper, the author proposes the Occupancy Network, a new learning-based three-dimensional reconstruction method. Currently cited【2275】
 
 
 
-#### 2  tesla的AI day
+#### 2  tesla AI day
 
 [1] [聊一聊Tesla 的Occupancy Network - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/575953155)
 
@@ -20,9 +20,9 @@ Occupancy Networks 系列的**开山之作**，在这篇论文中，作者提出
 
 
 
-## 发展
+## develop
 
-#### 时间顺序
+#### time sequence
 
 ##### 【2023】
 
@@ -70,17 +70,17 @@ Occupancy Networks 系列的**开山之作**，在这篇论文中，作者提出
 
 
 
-#### 在自动驾驶按照**输入分类**：（后标注的是引用次数）
+#### In automatic driving according to**enter the classification**：（The following is the number of citations）As of 2024/01/04
 
 > **single image**：MonoScene【72】、OccupancyM3D【1】、VoxFormer【43】、A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving【5】、OccupancyDETR【1】、SOccDPT【0】
 >
 > **depth image**：2023-OccDepth【22】
 >
-> **multiview**：TPVFormer【59】、SurroundOcc【31】、OccFormer【16】、OccBEV【2】、PanoOcc【6；好像目前nuscenes基于camera分割榜单第2】、UniOcc【4】、SelfOcc【1】、OccNeRF【0】
+> **multiview**：TPVFormer【59】、SurroundOcc【31】、OccFormer【16】、OccBEV【2】、PanoOcc【6】、UniOcc【4】、SelfOcc【1】、OccNeRF【0】
 >
-> **lidar：**PointOcc【2】
+> **lidar**：PointOcc【2】
 
-#### 利用Pre-training
+#### Use Pre-training
 
 > Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders【8】
 >
@@ -106,9 +106,9 @@ Occupancy Networks 系列的**开山之作**，在这篇论文中，作者提出
 
 
 
-#### Occupanc比赛
+#### Occupancy competition
 
-> 比赛：The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving【https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction】
+> competition：The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving【https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction】
 >
 > <img src="https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction/raw/main/figs/leaderboard-06-10-2023.png" alt="teaser" style="zoom:50%;" />
 
@@ -116,7 +116,7 @@ Occupancy Networks 系列的**开山之作**，在这篇论文中，作者提出
 
 
 
-#### Occupancy数据集
+#### Occupancy datasets
 
 > Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving 【32】
 >
@@ -130,17 +130,7 @@ Occupancy Networks 系列的**开山之作**，在这篇论文中，作者提出
 
 
 
-
-
-
-
-
-
-
-
-
-
-## 参考链接
+## Reference link
 
 【2019-occupancy network】http://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html
 
