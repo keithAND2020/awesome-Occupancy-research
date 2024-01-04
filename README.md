@@ -125,7 +125,7 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 >
 > <img src="https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction/raw/main/figs/leaderboard-06-10-2023.png" alt="teaser" style="zoom:50%;" />
 
->Contributor： Jia Heng
+
 
 
 
@@ -195,5 +195,6 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 
 【2023-SOccDPT】https://arxiv.org/abs/2311.11371
 
-####  Contributing
+##  Contributing
+
 Jia Heng
