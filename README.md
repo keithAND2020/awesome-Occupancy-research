@@ -26,7 +26,7 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 
 ##### 【2023】
 
-> **1、[2023-12-14][ICCV2023]**OccNeRF：Rendering Humans from Object-Occluded Monocular Videos[[paper]](https://arxiv.org/abs/2312.09243)[[code]](https://github.com/LinShan-Bin/OccNeRF)
+> **1、[2023-12-14][ICCV2023]** OccNeRF：Rendering Humans from Object-Occluded Monocular Videos[[paper]](https://arxiv.org/abs/2312.09243)[[code]](https://github.com/LinShan-Bin/OccNeRF)
 >
 > **2、[2023-12-09]** OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries[[paper]](https://arxiv.org/abs/2312.03774)
 >
