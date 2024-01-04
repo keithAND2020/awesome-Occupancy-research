@@ -59,11 +59,17 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 > **16、SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints**
 >
 > **17、【2023CVPR】Behind the Scenes: Density Fields for Single View Reconstruction【13】**
+> 
 > **18、OccupancyM3D：Learning Occupancy for Monocular 3D Object Detection**
+> 
 > **19、VoxFormer：Voxformer: Sparse voxel transformer for camera-based 3d semantic scene completion**
+> 
 > **20、OccDepth：Occdepth: A depth-aware method for 3d semantic scene completion**
+> 
 > **21、TPVFormer：Tri-perspective view for vision-based 3d semantic occupancy prediction**
+> 
 > **22、OccBEV：Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction**
+> 
 > **23、Occupancy-MAE：Occupancy-MAE: Self-Supervised Pre-Training Large-Scale LiDAR Point Clouds With Masked Occupancy Autoencoders**
 
 **【2022】**
