@@ -194,3 +194,6 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 【2023-Behind the Scenes】http://openaccess.thecvf.com/content/CVPR2023/html/Wimbauer_Behind_the_Scenes_Density_Fields_for_Single_View_Reconstruction_CVPR_2023_paper.html
 
 【2023-SOccDPT】https://arxiv.org/abs/2311.11371
+
+####  Contributing
+Jia Heng
