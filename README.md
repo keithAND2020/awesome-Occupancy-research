@@ -52,9 +52,9 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 >
 > **13、[2023-08-27]SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**[[paper]](http://openaccess.thecvf.com/content/ICCV2023/html/Wei_SurroundOcc_Multi-camera_3D_Occupancy_Prediction_for_Autonomous_Driving_ICCV_2023_paper.html)[[code]](https://github.com/weiyithu/SurroundOcc)
 >
-> **14、[2023-06-26][ICCV 2023] OccNet: Scene as Occupancy[[paper]] http://openaccess.thecvf.com/content/ICCV2023/html/Tong_Scene_as_Occupancy_ICCV_2023_paper.html)**[[code]](https://github.com/OpenDriveLab/OpenScene)
+> **14、[2023-06-26][ICCV 2023] OccNet: Scene as Occupancy**[[paper]](http://openaccess.thecvf.com/content/ICCV2023/html/Tong_Scene_as_Occupancy_ICCV_2023_paper.html)[[code]](https://github.com/OpenDriveLab/OpenScene)
 >
-> **15、[2023-06-16]PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**[[paper]](https://arxiv.org/abs/2306.10013)[[code]]([PanoOcc](https://github.com/Robertwyq/PanoOcc))
+> **15、[2023-06-16]PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**[[paper]](https://arxiv.org/abs/2306.10013)[[code]](https://github.com/Robertwyq/PanoOcc)
 >
 > **16、[2023-06-15]UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering** [[paper]](https://arxiv.org/abs/2306.09117)
 >
