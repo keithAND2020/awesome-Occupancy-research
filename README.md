@@ -24,6 +24,26 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 
 #### time sequence
 
+##### 【2024】
+
+> **1、[2024-01-17][NIPS2023]** Pop-3d: Open-vocabulary 3d occupancy prediction from images[[paper]](https://openreview.net/forum?id=eBXM62SqKY)[[code]](https://github.com/vobecant/POP3D)
+> 
+
+> **2、[2024-01-23]** InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction[[paper]](https://arxiv.org/pdf/2401.12422.pdf)
+>
+
+> **3、[2024-01-24]** S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction[[paper]](https://arxiv.org/pdf/2401.13785.pdf)
+>
+
+> **4、[2024-02-20]** OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow[[paper]](https://arxiv.org/pdf/2402.12792.pdf)
+>
+
+> **5、[2024-03-03]** OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction[[paper]](https://arxiv.org/pdf/2403.01644.pdf)[[code]](https://github.com/DanielMing123/OCCFusion)
+>
+
+> **6、[2024-03-05][ICRA2024]** FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View[[paper]](https://arxiv.org/pdf/2403.02710.pdf)
+>
+
 ##### 【2023】
 
 > **1、[2023-12-14][ICCV2023]** OccNeRF：Rendering Humans from Object-Occluded Monocular Videos[[paper]](https://arxiv.org/abs/2312.09243)[[code]](https://github.com/LinShan-Bin/OccNeRF)
