@@ -24,6 +24,48 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 
 #### time sequence
 
+##### 【CVPR 2024】
+> **1、** Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles[[paper]](https://openreview.net/forum?id=eBXM62SqKY)
+>
+
+> **2、** Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications[[paper]](https://arxiv.org/abs/2311.17663)[[code]](https://github.com/haomo-ai/Cam4DOcc)
+>
+
+> **3、** Accurate Training Data for Occupancy Map Prediction in Automated Driving using Evidence Theory
+>
+
+> **4、** OccupancyM3D: Learning Occupancy for Monocular 3D Object Detection[[paper]](https://arxiv.org/abs/2305.15694)[[code]](https://github.com/SPengLiang/OccupancyM3D)
+>
+
+> **5、** PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation[[paper]](https://arxiv.org/abs/2306.10013)[[code]](https://github.com/Robertwyq/PanoOcc)
+>
+
+> **6、** COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction[[paper]](https://arxiv.org/abs/2312.01919)
+>
+
+> **7、** COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction[[paper]](https://arxiv.org/abs/2312.01919)
+>
+
+> **8 、** SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction[[paper]](https://arxiv.org/abs/2311.12754)[[code]](https://github.com/huang-yh/SelfOcc)
+>
+
+> **9 、** StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation
+>
+
+> **10 、** SGC-Occ: Semantic-Geometry Consistent 3D Occupancy Prediction for Autonomous Driving
+>
+
+> **11 、** SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction
+>
+
+> **12 、** Unsupervised Occupancy Learning from Sparse Point Cloud[[paper]](https://arxiv.org/abs/2404.02759)
+>
+
+> **13 、** UnO: Unsupervised Occupancy Fields for Perception and Forecasting
+>
+
+> **14 、** Diffusion-FOF: Single-view Clothed Human Reconstruction via Diffusion-based Fourier Occupancy Field
+>
 ##### 【2024】
 
 > **1、[2024-01-17][NIPS2023]** Pop-3d: Open-vocabulary 3d occupancy prediction from images[[paper]](https://openreview.net/forum?id=eBXM62SqKY)[[code]](https://github.com/vobecant/POP3D)
