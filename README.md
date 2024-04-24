@@ -85,8 +85,12 @@ The first work in the Occupancy Networks series, in this paper, the author propo
 
 > **6、[2024-03-05][ICRA2024]** FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View[[paper]](https://arxiv.org/pdf/2403.02710.pdf)
 >
+ 
 
 ##### 【2023】
+
+> **1+、[2023-12-28]** Fully Sparse 3D Occupancy Prediction[[paper]](https://arxiv.org/abs/2312.17118)[[code]](https://github.com/MCG-NJU/SparseOcc)
+>
 
 > **1、[2023-12-14][ICCV2023]** OccNeRF：Rendering Humans from Object-Occluded Monocular Videos[[paper]](https://arxiv.org/abs/2312.09243)[[code]](https://github.com/LinShan-Bin/OccNeRF)
 >
